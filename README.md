@@ -74,6 +74,7 @@ Prepare an E-R diagram for a reaP2l estate firm that lists properties for sale. 
 
 ![ERD-Page-4 drawio](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/18e5b74c-d540-4804-952f-47f664b8b19d)
 
+## Mapping
 ![Lab1 - P4](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/7e3ba878-40c5-4b78-b74c-635389528eae)
 
 
