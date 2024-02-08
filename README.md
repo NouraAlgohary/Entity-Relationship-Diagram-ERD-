@@ -1,4 +1,4 @@
-# Entity-Relationship-Diagram-ERD-
+# Entity Relationship Diagram (ERD)
 Entity Relationship Diagram examples with solutions.
 
 
@@ -58,7 +58,7 @@ Prepare an E-R diagram for a reaP2l estate firm that lists properties for sale. 
 •	Data about the nurse is recorded as her name and her number and her address.</br> 
 •	A drug has code number, recommended dosage and more than one brand name.</br>
 
-![Problem 1 - P3 - Hospital](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/aba87af7-1efc-4f8e-be74-36c7dffa07ff)
+![ERD-Page-4 drawio](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/18e5b74c-d540-4804-952f-47f664b8b19d)
 
 
 # Case 4
