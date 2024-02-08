@@ -17,6 +17,8 @@ A big company has decided to store information about its projects and employees 
 
 ![image](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/0432cee1-7e36-4dce-8ef1-66d7b03bf974)
 
+## Mapping
+
 ![diagram](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/e3093b18-ee89-42f1-8803-93ebc846774f)
 
 
@@ -41,10 +43,6 @@ Design a conceptual schema for Musicana. Be sure to indicate all keys and cardin
 
 ![Lab1 - P1](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/998d34b1-e40f-401a-bf8d-8ce6ab6d3a02)
 
-## Mapping
-
-![Lab1 - P2](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/4cf0d2c8-df77-48d5-a981-24201d303fd9)
-
 
 # Case 3
 Prepare an E-R diagram for a reaP2l estate firm that lists properties for sale. The following describes this organization:</br>
@@ -59,7 +57,7 @@ Prepare an E-R diagram for a reaP2l estate firm that lists properties for sale. 
 
 ## Mapping
 
-![Lab1 - P3](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/3e019692-afa2-4772-89d2-56a74fc52fcf)
+![Lab1 - P2](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/4cf0d2c8-df77-48d5-a981-24201d303fd9)
 
 
 # Case 4
@@ -78,7 +76,8 @@ Prepare an E-R diagram for a reaP2l estate firm that lists properties for sale. 
 ![ERD-Page-4 drawio](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/18e5b74c-d540-4804-952f-47f664b8b19d)
 
 ## Mapping
-![Lab1 - P4](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/7e3ba878-40c5-4b78-b74c-635389528eae)
+
+![Lab1 - P3](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/3e019692-afa2-4772-89d2-56a74fc52fcf)
 
 
 # Case 5
@@ -92,4 +91,7 @@ Each route has a route identification number, origin, destination, distance,clas
 6. Each airline keeps information about their buy/sell transactions (for example selling an airplane ticket is a sell transaction, paying for maintenance is a buy transaction). Each transaction has a transaction identification number, date, description, and amount of money paid/received. </br>
                                                                                                                   
 ![Problem 1](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/4c5c099a-8612-4cb0-902c-870721bc0a6f)
+
+## Mapping
+![Lab1 - P4](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/7e3ba878-40c5-4b78-b74c-635389528eae)
 
