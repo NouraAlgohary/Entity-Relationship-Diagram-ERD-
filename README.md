@@ -71,4 +71,5 @@ Each route has a route identification number, origin, destination, distance,clas
 5. Each aircraft has its own crew (major pilot, assistant pilot and two hostesses), the aircraft crew not stored as employee. Each crew is assigned to only one aircraft.</br>
 6. Each airline keeps information about their buy/sell transactions (for example selling an airplane ticket is a sell transaction, paying for maintenance is a buy transaction). Each transaction has a transaction identification number, date, description, and amount of money paid/received. </br>
                                                                                                                   
+![Problem 1](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/4c5c099a-8612-4cb0-902c-870721bc0a6f)
 
