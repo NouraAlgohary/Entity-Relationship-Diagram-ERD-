@@ -1,6 +1,23 @@
 # Entity Relationship Diagram (ERD)
 Entity Relationship Diagram examples with solutions.
 
+Mapping Steps:
+
+```
+Step 1: Mapping of Regular Entity Types
+
+Step 2: Mapping of Weak Entity Types
+
+Step 3: Mapping of Binary 1:1 Relation Types
+
+Step 4: Mapping of Binary 1:N Relationship Types.
+
+Step 5: Mapping of Binary M:N Relationship Types.
+
+Step 6: Mapping of N-ary Relationship Types.
+
+Step 7: Mapping of Unary Relationship.
+```
 
 # Case 1
 A big company has decided to store information about its projects and employees in a database. The company has wisely chosen to hire you as a database designer. Prepare an E-R diagram for this Company according to The following Description:</br>
