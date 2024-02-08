@@ -17,6 +17,11 @@ A big company has decided to store information about its projects and employees 
 
 ![image](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/0432cee1-7e36-4dce-8ef1-66d7b03bf974)
 
+## Mapping
+
+![Lab1 - P1](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/998d34b1-e40f-401a-bf8d-8ce6ab6d3a02)
+
+
 # Case 2
 (Note that the Identification number is unique)  </br>
 
@@ -33,6 +38,10 @@ Design a conceptual schema for Musicana. Be sure to indicate all keys and cardin
 
 ![Problem 1 - P1 - Musicia](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/05699a01-f325-449a-b88e-57e9eb329689)
 
+## Mapping
+
+![Lab1 - P2](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/4cf0d2c8-df77-48d5-a981-24201d303fd9)
+
 
 # Case 3
 Prepare an E-R diagram for a reaP2l estate firm that lists properties for sale. The following describes this organization:</br>
@@ -44,6 +53,11 @@ Prepare an E-R diagram for a reaP2l estate firm that lists properties for sale. 
 •	Each property may have zero or more owners. Attributes of owners are Owner_ID and Owner_Name. An owner own one or more properties. The system stores the percent owned by each owner in each property.</br>
 
 ![Problem 1 - P2](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/677f3283-8f2a-4c4c-b88e-64a37449402f)
+
+## Mapping
+
+![Lab1 - P3](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/3e019692-afa2-4772-89d2-56a74fc52fcf)
+
 
 # Case 4
 •	A General Hospital consists of a number of specialized wards. Each ward is described by ward_id, Name</br>
@@ -60,8 +74,10 @@ Prepare an E-R diagram for a reaP2l estate firm that lists properties for sale. 
 
 ![ERD-Page-4 drawio](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/18e5b74c-d540-4804-952f-47f664b8b19d)
 
+![Lab1 - P4](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/7e3ba878-40c5-4b78-b74c-635389528eae)
 
-# Case 4
+
+# Case 5
 Major airlines companies that provide passenger services keep database with lots of information on all airlines.</br>
 1. Each airline has an identification number, name and address, name of the contact person and telephone numbers.</br>
 2. Each employee works in Airline Company has an employee identification number, name, address, birthday recorded as (day, month, year), gender, position with the company, and qualifications.</br>
