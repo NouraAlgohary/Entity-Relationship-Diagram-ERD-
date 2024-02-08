@@ -17,9 +17,8 @@ A big company has decided to store information about its projects and employees 
 
 ![image](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/0432cee1-7e36-4dce-8ef1-66d7b03bf974)
 
-## Mapping
+![diagram](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/e3093b18-ee89-42f1-8803-93ebc846774f)
 
-![Lab1 - P1](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/998d34b1-e40f-401a-bf8d-8ce6ab6d3a02)
 
 
 # Case 2
@@ -37,6 +36,10 @@ Musicana records have decided to store information on musicians who perform on t
 Design a conceptual schema for Musicana. Be sure to indicate all keys and cardinality constraints and any assumptions that you make.</br>
 
 ![Problem 1 - P1 - Musicia](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/05699a01-f325-449a-b88e-57e9eb329689)
+
+## Mapping
+
+![Lab1 - P1](https://github.com/NouraAlgohary/Entity-Relationship-Diagram-ERD-/assets/103903785/998d34b1-e40f-401a-bf8d-8ce6ab6d3a02)
 
 ## Mapping
 
